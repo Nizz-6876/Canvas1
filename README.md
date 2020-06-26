@@ -1,2 +1,2 @@
-# Canvas1
-you can draw on it
+# p5.play-boilerplate
+CLASS 20 PROJECT BOILERPLATE
